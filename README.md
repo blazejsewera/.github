@@ -1,2 +1,3 @@
 # .github
-Common place for Github apps configuration for blazejsewera org
+
+Common place for Github apps and core configuration for blazejsewera organization.
